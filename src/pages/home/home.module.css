@@ -1,0 +1,46 @@
+.container{
+  display: flex;
+  justify-content: center;
+  height: auto;
+}
+
+.cards{
+  margin-left: 15rem;
+  margin-right: 15rem;
+  height: auto;
+}
+/*primeira linha*/
+.row1{
+  display: flex;
+  flex-direction: row;
+  
+  gap: 2rem;
+}
+
+.eventsToday{
+  color: #0770e7;
+}
+
+.eventsMonth{
+  color: rgb(25, 156, 25);
+}
+
+.totalEvents{
+  color: rgb(236, 124, 44);
+}
+
+/*segunda linha*/
+.row2{
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  gap: 2rem;
+}
+
+.canceledEvents{
+  color: rgb(224, 33, 33);
+}
+
+.rescheduledEvents{
+  color: rgb(92, 203, 207);
+}

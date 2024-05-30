@@ -1,0 +1,10 @@
+.buttonHeader{
+  margin-top: 1rem;
+  background-color: rgb(144, 80, 207);
+  color: #fff;
+  border-radius: 40px;
+  border: none;
+  padding: 8px 20px;
+  font-size: 1rem;
+  font-weight: bold;
+}

@@ -1,0 +1,17 @@
+.container {
+  height: 8rem;
+  margin-bottom: 5rem;
+  padding-left: 5rem;
+  
+}
+
+.logo{
+  padding-top: 1.5rem;
+  font-size: 3rem;
+}
+
+.buttonNew{
+  display: flex;
+  justify-content: space-between;
+  margin-right: 12rem;
+}
